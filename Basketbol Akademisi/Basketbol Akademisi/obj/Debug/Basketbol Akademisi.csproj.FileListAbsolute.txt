@@ -1,0 +1,21 @@
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\bin\Debug\Basketbol Akademisi.exe.config
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\bin\Debug\Basketbol Akademisi.exe
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\bin\Debug\Basketbol Akademisi.pdb
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.csproj.ResolveComReference.cache
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form1.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form2.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form3.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form4.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form5.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form6.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Properties.Resources.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.csproj.GenerateResource.cache
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.exe
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.pdb
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol_Akademisi.Form7.resources
+C:\Users\kerem\source\repos\Basketbol Akademisi\Basketbol Akademisi\obj\Debug\Basketbol Akademisi.csprojAssemblyReference.cache
